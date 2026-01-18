@@ -1,6 +1,10 @@
 # Xmake cache
 .xmake/
 build/
+.devkit
+models
+.claude
+.xmake
 
 # Binaries
 bin/
